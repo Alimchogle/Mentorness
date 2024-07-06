@@ -9,7 +9,7 @@ Description: The hotel industry relies on data to make informed decisions and pr
 this internship, you will work with a hotel reservation dataset to gain insights into guest preferences,
 booking trends, and other key factors that impact the hotel's operations. You will use SQL to query and
 analyze the data, as well as answer specific questions about the dataset.
-# 3) YOUTUBE SONGS ANALYSIS USING POWER BI
+# 3) Songs Analysis with Power BI/Tableau
 project aims to conduct a comprehensive analysis of YouTube songs data using Power BI.
 The dataset contains key attributes such as video ID, channel title, title, description, tags, published date,
 view count, like count, favorite count, comment count, video duration, video definition, and caption
