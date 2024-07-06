@@ -1,4 +1,6 @@
 # Mentorness
+# overview
+This repository contains the three main tasks I completed during my Mentorness Data Analyst Internship. Each task involved different data analysis techniques and tools, helping me to gain a diverse set of skills. Below are the details of each task:
 1) YOUTUBE SONGS ANALYSIS USING POWER BI
 project aims to conduct a comprehensive analysis of YouTube songs data using Power BI.
 The dataset contains key attributes such as video ID, channel title, title, description, tags, published date,
